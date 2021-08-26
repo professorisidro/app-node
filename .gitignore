@@ -1,0 +1,3 @@
+#arquivos que eu quero igonorar
+package-lock.json
+node_modules/

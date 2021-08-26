@@ -1,0 +1,11 @@
+{
+    "name": "app-node",
+    "description": "Aplicacao Exemplo em Node.JS do curso do Isidro",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
